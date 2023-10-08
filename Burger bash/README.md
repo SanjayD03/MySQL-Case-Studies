@@ -2,7 +2,9 @@
 ## Description
 "**Burger Bash**",<h8> is a pioneering venture in the burger industry that blends traditional burger sales with the convenience of on-demand delivery. This innovative approach involves assembling a team of dedicated "runners" to distribute fresh burgers from the Burger Runner Headquarters. Additionally, a user-friendly mobile app has been developed to facilitate customer orders. The project's primary goal is to revolutionize the burger business, offering both in-person and delivery options while embracing modern technology to secure seed funding for expansion.
 
-![Burger image](https://github.com/SanjayD03/Burger-Bash-Case-Study/assets/130745671/cc74646c-8422-42a7-901e-9242e7dabded)
+<p align="center">
+    <img src="https://github.com/SanjayD03/Burger-Bash-Case-Study/assets/130745671/cc74646c-8422-42a7-901e-9242e7dabded" alt="Burger Bash">
+</p>
 
 ## Installation
 To run this project on your machine you need to install any SQL supported DBMS then follow the steps below:
@@ -14,7 +16,9 @@ To run this project on your machine you need to install any SQL supported DBMS t
 MySQL Workbench
 
 ## Entity Relationship Diagram
-![Entity Relationship Diagram (2)](https://github.com/SanjayD03/Burger-Bash-Case-Study/assets/130745671/c7bfd52e-fd00-4103-8995-be90767cd0ef)
+<p align="center">
+    <img src="https://github.com/SanjayD03/Burger-Bash-Case-Study/assets/130745671/c7bfd52e-fd00-4103-8995-be90767cd0ef" alt="Entity Relationship Diagram">
+</p>
 
 ## Business Objective
 To disrupt the traditional burger industry by transforming it into a tech-enabled, on-demand burger delivery service, leveraging a user-friendly mobile app and a network of dedicated "runners" for fast and convenient burger delivery.
