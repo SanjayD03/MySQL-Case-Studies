@@ -52,6 +52,7 @@ new age_band and demographic columns
 Number of weekdays that are missing from the dataset - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60
 
 2. How many total transactions were there for each year in the dataset?
+   
 | Calendar Year | Total Transactions |
 |---------------|-------------------|
 | 2020          | 375,813,651       |
@@ -59,6 +60,7 @@ Number of weekdays that are missing from the dataset - 1, 2, 3, 4, 5, 6, 7, 8, 9
 | 2018          | 346,406,460       |
 
 3. What are the total sales for each region for each month?
+   
 | Month Number | Region        | Total Sales  |
 |--------------|---------------|--------------|
 | 3            | AFRICA        | 567,767,480  |
@@ -112,12 +114,14 @@ Number of weekdays that are missing from the dataset - 1, 2, 3, 4, 5, 6, 7, 8, 9
 | 9            | USA           | 110,532,368  |
 
 4. What is the total count of transactions for each platform
+   
 | Platform | Total Transactions |
 |----------|---------------------|
 | Retail   | 1,081,934,227       |
 | Shopify  | 5,925,169           |
 
 5. What is the percentage of sales for Retail vs Shopify for each month?
+   
 | Month Number | Calendar Year | Retail Percentage | Shopify Percentage |
 |--------------|---------------|-------------------|--------------------|
 | 3            | 2018          | 97.92%            | 2.08%              |
@@ -142,6 +146,7 @@ Number of weekdays that are missing from the dataset - 1, 2, 3, 4, 5, 6, 7, 8, 9
 | 9            | 2019          | 97.09%            | 2.91%              |
 
 6. What is the percentage of sales by demographic for each year in the dataset?
+   
 | Calendar Year | Demographic | Yearly Sales | Percentage |
 |---------------|-------------|--------------|------------|
 | 2018          | Couples     | 3,402,388,688| 30.38%     |
@@ -155,6 +160,7 @@ Number of weekdays that are missing from the dataset - 1, 2, 3, 4, 5, 6, 7, 8, 9
 | 2020          | Unknown     | 5,436,315,907| 33.27%     |
 
 7. Which age_band and demographic values contribute the most to Retail sales?
+   
 | Age Band     | Demographic | Total Sales    |
 |--------------|--------------|-----------------|
 | Unknown      | Unknown      | 16,067,285,533 |
